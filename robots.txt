@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phbh-music.com/sitemap.xml
